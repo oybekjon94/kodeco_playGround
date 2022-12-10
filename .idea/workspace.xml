@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3177d316-9253-466a-9be2-b900ae29540e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Use Data Types &amp; Operations/2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Use Data Types &amp; Operations/3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin._2Kt">
+  <component name="RunManager" selected="Kotlin._3Kt">
     <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Use Data Types &amp; Operations._1Kt" />
       <module name="kodeco" />
@@ -51,8 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Use Data Types &amp; Operations._3Kt" />
+      <module name="kodeco" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
         <item itemvalue="Kotlin._1Kt" />
       </list>
@@ -74,11 +82,19 @@
       <option name="project" value="LOCAL" />
       <updated>1670687151798</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[feat::] Add 2 data types">
+      <created>1670688436756</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670688436756</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[feat::] Add 1 data types" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1 data types" />
+    <MESSAGE value="[feat::] Add 2 data types" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 2 data types" />
   </component>
 </project>
