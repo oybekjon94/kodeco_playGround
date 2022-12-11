@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kodeco.iml" filepath="$PROJECT_DIR$/kodeco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodeco_playGround.iml" filepath="$PROJECT_DIR$/kodeco_playGround.iml" />
     </modules>
   </component>
 </project>
