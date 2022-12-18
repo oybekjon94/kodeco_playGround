@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3177d316-9253-466a-9be2-b900ae29540e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collection&amp;lambdas/1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functions&amp;nullability/5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/functions&amp;nullability/5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collection&amp;lambdas/2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/collection&amp;lambdas/2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +38,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._5Kt">
-    <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions&amp;nullability._1Kt" />
+  <component name="RunManager" selected="Kotlin._2Kt (1)">
+    <configuration name="_2Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection&amp;lambdas._2Kt" />
       <module name="kodeco_playGround" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._2Kt (1)" />
         <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
-        <item itemvalue="Kotlin._1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671294659177</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="[feat::] Add 1 collection&amp;lambdas">
+      <created>1671341426847</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1671341426848</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,6 +263,7 @@
     <MESSAGE value="[feat::] Add 2 function$range" />
     <MESSAGE value="[feat::] Add 3 function$range" />
     <MESSAGE value="[feat::] Add 4 function$range" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 4 function$range" />
+    <MESSAGE value="[feat::] Add 1 collection&amp;lambdas" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1 collection&amp;lambdas" />
   </component>
 </project>
