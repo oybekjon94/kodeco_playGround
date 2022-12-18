@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3177d316-9253-466a-9be2-b900ae29540e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions&amp;nullability/4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions&amp;nullability/5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collection&amp;lambdas/1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functions&amp;nullability/5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/functions&amp;nullability/5.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._4Kt">
-    <configuration name="_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="manageControlFlow._10Kt" />
-      <module name="kodeco_playGround" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._5Kt">
     <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functions&amp;nullability._1Kt" />
       <module name="kodeco_playGround" />
@@ -76,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions&amp;nullability._5Kt" />
+      <module name="kodeco_playGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
         <item itemvalue="Kotlin._1Kt" />
-        <item itemvalue="Kotlin._10Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671022030625</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="[feat::] Add 4 function$range">
+      <created>1671294659177</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1671294659177</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,6 +257,7 @@
     <MESSAGE value="[feat::] Add 1 controlFlow" />
     <MESSAGE value="[feat::] Add 2 function$range" />
     <MESSAGE value="[feat::] Add 3 function$range" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 3 function$range" />
+    <MESSAGE value="[feat::] Add 4 function$range" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 4 function$range" />
   </component>
 </project>
