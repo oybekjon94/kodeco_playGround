@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3177d316-9253-466a-9be2-b900ae29540e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collection&amp;lambdas/7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collection&amp;lambdas/8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exploreMoreCollections/1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,16 +40,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._7Kt">
-    <configuration name="_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="companionObject._2Kt" />
-      <module name="kodeco_playGround" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection&amp;lambdas._4Kt" />
+  <component name="RunManager" selected="Kotlin._1Kt">
+    <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exploreMoreCollections._1Kt" />
       <module name="kodeco_playGround" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection&amp;lambdas._8Kt" />
+      <module name="kodeco_playGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1Kt" />
+        <item itemvalue="Kotlin._8Kt" />
         <item itemvalue="Kotlin._7Kt" />
         <item itemvalue="Kotlin._6Kt" />
         <item itemvalue="Kotlin._5Kt" />
-        <item itemvalue="Kotlin._4Kt" />
-        <item itemvalue="Kotlin._2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672299268991</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="[feat::] Add 7 collection&amp;lambdas">
+      <created>1672299962726</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1672299962726</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -296,6 +304,7 @@
     <MESSAGE value="[feat::] Add 2 collection&amp;lambdas" />
     <MESSAGE value="[feat::] Add 4 collection&amp;lambdas" />
     <MESSAGE value="[feat::] Add 6 collection&amp;lambdas" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 6 collection&amp;lambdas" />
+    <MESSAGE value="[feat::] Add 7 collection&amp;lambdas" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 7 collection&amp;lambdas" />
   </component>
 </project>
